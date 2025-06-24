@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-congrats-dr-ian-sitarik-has-successfully-defended-his-thesis-titled-understanding-the-fundamental-principles-behind-the-influences-of-native-and-non-native-entanglements-on-protein-structure-function-and-misfolding",
+          title: 'Congrats Dr. Ian Sitarik has successfully defended his thesis titled “Understanding the fundamental...',
           description: "",
           section: "News",},{id: "news-protein-accidentally-lassos-itself-helping-explain-unusual-refolding-behavior-sci-adv-paper",
           title: 'Protein accidentally lassos itself, helping explain unusual refolding behavior (Sci. Adv paper)',
